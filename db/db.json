@@ -1,0 +1,38 @@
+{
+  "livrosExistentes": [
+    {
+      "nome": "Arquitetura Limpa",
+      "descricao": "As regras universais de arquitetura de software aumentam dramaticamente a produtividade dos desenvolvedores ao longo da vida dos sistgemas de software",
+      "autor": "Robert C. Martin"
+    },
+    {
+      "nome": "Código Limpo",
+      "descricao": "Mesmo um código ruim pode funcionar. Mas se ele não for limpo, pode acavar com uma empresa de desenvolvimento. Perdem-se a cada ano horas incontáveis de recursos",
+      "autor": "Robert C. Martin"
+    },
+    {
+      "nome": "Siga em Frente",
+      "descricao": "Coleção Pitch Deck. Plataforma para jovens negócios. Verdadeiro manifesto ilustrado de como ser criativo na era digital. Roube como um artista do designer e escritor",
+      "autor": "Austin Kleon"
+    },
+    {
+      "nome": "Roube como um Artista",
+      "descricao": "Em seus livros anteriores, os best-sellers Roube como um artista e Mostre seu trabalho!, Austin Kleon deu aos seus leitores a chave para liberar a criatividade de o que é preciso para",
+      "autor": "Austin Kleon"
+    }
+  ],
+  "novosLivros": [
+    {
+      "nome": "Desenvolvimento Node JS",
+      "descricao": "Contrate com 40% de Desconto e conte com SSL, Domínio, E-mail e Criador de Sites Grátis. Hospedagens de Sites - Perfeita pra Começar, Flexível pra Crescer. Parcele em Até 12x. Contas E-mail Ilimitadas. Suporte 24/7. Domínio e SSL Grátis. Hospedagem com SSD. Oferta Imperdível. É Hoje. Painel de Controle cPanel. Serviços: Garantia Uptime 99,9%, Migração Gratuita.",
+      "autor": "Robert C.Martin",
+      "id": 1
+    },
+    {
+      "nome": "sera que vai",
+      "descricao": "sdgsdgssdgsdhoihiuhoiououhioihhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh",
+      "autor": "Robert C.Martin",
+      "id": 2
+    }
+  ]
+}
